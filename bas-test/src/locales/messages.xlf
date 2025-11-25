@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+  <file source-language="en" target-language="en" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="5541390300403296041" datatype="html">
         <source>Rejection Reason</source>
+        <target>Rejection Reason</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/approval-card/approval-card.component.ts</context>
           <context context-type="linenumber">19,20</context>
@@ -11,6 +12,7 @@
       </trans-unit>
       <trans-unit id="2943033819969004159" datatype="html">
         <source>Requested</source>
+        <target>Requested</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/approval-card/approval-card.component.ts</context>
           <context context-type="linenumber">26,27</context>
@@ -26,6 +28,7 @@
       </trans-unit>
       <trans-unit id="4188654437346976139" datatype="html">
         <source>Rejected</source>
+        <target>Rejected</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/approval-card/approval-card.component.ts</context>
           <context context-type="linenumber">32,33</context>
@@ -33,6 +36,7 @@
       </trans-unit>
       <trans-unit id="7651007598866256054" datatype="html">
         <source>Delivery not approved</source>
+        <target>Delivery not approved</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/approval-card/approval-card.component.ts</context>
           <context context-type="linenumber">46</context>
@@ -40,6 +44,7 @@
       </trans-unit>
       <trans-unit id="5354056943628888238" datatype="html">
         <source>Visit date</source>
+        <target>Visit date</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-card/assessment-card.component.ts</context>
           <context context-type="linenumber">32,33</context>
@@ -51,6 +56,7 @@
       </trans-unit>
       <trans-unit id="8198749797033860592" datatype="html">
         <source>Final offer date</source>
+        <target>Final offer date</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-card/assessment-card.component.ts</context>
           <context context-type="linenumber">38,39</context>
@@ -62,6 +68,7 @@
       </trans-unit>
       <trans-unit id="7574091185278710332" datatype="html">
         <source>Final offer approved</source>
+        <target>Final offer approved</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-card/assessment-card.component.ts</context>
           <context context-type="linenumber">44,45</context>
@@ -69,6 +76,7 @@
       </trans-unit>
       <trans-unit id="2375279733668290995" datatype="html">
         <source>Final offer pricing</source>
+        <target>Final offer pricing</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-card/assessment-card.component.ts</context>
           <context context-type="linenumber">50,51</context>
@@ -80,6 +88,7 @@
       </trans-unit>
       <trans-unit id="9094566586621383369" datatype="html">
         <source>Final offer report</source>
+        <target>Final offer report</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-card/assessment-card.component.ts</context>
           <context context-type="linenumber">60,61</context>
@@ -90,7 +99,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3250863177202784074" datatype="html">
-        <source><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;[&apos;fak&apos;, &apos;edit-02&apos;]&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/> Edit </source>
+        <source><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;['fak', 'edit-02']&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/> Edit </source>
+        <target><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;['fak', 'edit-02']&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/> Edit </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-card/assessment-card.component.ts</context>
           <context context-type="linenumber">85,87</context>
@@ -106,6 +116,7 @@
       </trans-unit>
       <trans-unit id="6181068926707632447" datatype="html">
         <source>Assessment</source>
+        <target>Assessment</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-card/assessment-card.component.ts</context>
           <context context-type="linenumber">101</context>
@@ -117,6 +128,7 @@
       </trans-unit>
       <trans-unit id="7884013188852461209" datatype="html">
         <source>Final offer approval date</source>
+        <target>Final offer approval date</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-form/assessment-form.component.ts</context>
           <context context-type="linenumber">122</context>
@@ -124,6 +136,7 @@
       </trans-unit>
       <trans-unit id="7109480705898073232" datatype="html">
         <source>PDF,DOC,DOCX,XLS or XLSX(Max. 3mb)</source>
+        <target>PDF,DOC,DOCX,XLS or XLSX(Max. 3mb)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-form/assessment-form.component.ts</context>
           <context context-type="linenumber">125</context>
@@ -139,6 +152,7 @@
       </trans-unit>
       <trans-unit id="3768927257183755959" datatype="html">
         <source>Save</source>
+        <target>Save</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-form/assessment-form.component.ts</context>
           <context context-type="linenumber">126</context>
@@ -166,6 +180,7 @@
       </trans-unit>
       <trans-unit id="2159130950882492111" datatype="html">
         <source>Cancel</source>
+        <target>Cancel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/assessment-form/assessment-form.component.ts</context>
           <context context-type="linenumber">127</context>
@@ -197,6 +212,7 @@
       </trans-unit>
       <trans-unit id="9024928966719691036" datatype="html">
         <source>Supplier Reason</source>
+        <target>Supplier Reason</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">17,18</context>
@@ -204,6 +220,7 @@
       </trans-unit>
       <trans-unit id="4328104172138799237" datatype="html">
         <source>Customer note</source>
+        <target>Customer note</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">23,24</context>
@@ -211,6 +228,7 @@
       </trans-unit>
       <trans-unit id="3333771690595335412" datatype="html">
         <source>What&apos;s next?</source>
+        <target>What&apos;s next?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">30,31</context>
@@ -218,6 +236,7 @@
       </trans-unit>
       <trans-unit id="5316050993977366895" datatype="html">
         <source> We will contact you after we investigate the issue. It may take up to 2 weeks. </source>
+        <target> We will contact you after we investigate the issue. It may take up to 2 weeks. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">32</context>
@@ -225,6 +244,7 @@
       </trans-unit>
       <trans-unit id="6468800528949839515" datatype="html">
         <source>Declined</source>
+        <target>Declined</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">45,46</context>
@@ -232,6 +252,7 @@
       </trans-unit>
       <trans-unit id="63679568923579290" datatype="html">
         <source>Approval</source>
+        <target>Approval</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">53,54</context>
@@ -239,6 +260,7 @@
       </trans-unit>
       <trans-unit id="2039578388987515201" datatype="html">
         <source>Deposit claimed</source>
+        <target>Deposit claimed</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">71</context>
@@ -246,6 +268,7 @@
       </trans-unit>
       <trans-unit id="8915294525838844013" datatype="html">
         <source>Cancellation request declined</source>
+        <target>Cancellation request declined</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">94</context>
@@ -253,6 +276,7 @@
       </trans-unit>
       <trans-unit id="4043049091728011235" datatype="html">
         <source>Cancelled</source>
+        <target>Cancelled</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">97</context>
@@ -264,6 +288,7 @@
       </trans-unit>
       <trans-unit id="4901343106710454295" datatype="html">
         <source>Cancellation requested</source>
+        <target>Cancellation requested</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/cancellation-card/cancellation-card.component.ts</context>
           <context context-type="linenumber">99</context>
@@ -271,6 +296,7 @@
       </trans-unit>
       <trans-unit id="8478716983552743608" datatype="html">
         <source> Contact </source>
+        <target> Contact </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/contact-drawer/contact-drawer.component.ts</context>
           <context context-type="linenumber">11,12</context>
@@ -278,6 +304,7 @@
       </trans-unit>
       <trans-unit id="3262236020277300799" datatype="html">
         <source>Phone</source>
+        <target>Phone</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/contact-drawer/contact-drawer.component.ts</context>
           <context context-type="linenumber">18,19</context>
@@ -285,6 +312,7 @@
       </trans-unit>
       <trans-unit id="4768749765465246664" datatype="html">
         <source>Email</source>
+        <target>Email</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/contact-drawer/contact-drawer.component.ts</context>
           <context context-type="linenumber">24,25</context>
@@ -292,6 +320,7 @@
       </trans-unit>
       <trans-unit id="6304432362546770951" datatype="html">
         <source>Address</source>
+        <target>Address</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/contact-drawer/contact-drawer.component.ts</context>
           <context context-type="linenumber">30,31</context>
@@ -299,6 +328,7 @@
       </trans-unit>
       <trans-unit id="7922989125096435449" datatype="html">
         <source>Contact</source>
+        <target>Contact</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/contact-drawer/contact-drawer.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -306,6 +336,7 @@
       </trans-unit>
       <trans-unit id="7730141981726591466" datatype="html">
         <source>Loading deal details...</source>
+        <target>Loading deal details...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">73,74</context>
@@ -313,6 +344,7 @@
       </trans-unit>
       <trans-unit id="8634025124141616528" datatype="html">
         <source>Customers</source>
+        <target>Customers</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">335</context>
@@ -324,6 +356,7 @@
       </trans-unit>
       <trans-unit id="1364046924291616021" datatype="html">
         <source>Edit assessment data</source>
+        <target>Edit assessment data</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">337</context>
@@ -331,6 +364,7 @@
       </trans-unit>
       <trans-unit id="6250742806431534479" datatype="html">
         <source>Cancel order</source>
+        <target>Cancel order</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">338</context>
@@ -342,6 +376,7 @@
       </trans-unit>
       <trans-unit id="8258885771881599189" datatype="html">
         <source>Are you sure you want to cancel this order? We will forward your cancellation request to the customer who will approve or decline the cancellation</source>
+        <target>Are you sure you want to cancel this order? We will forward your cancellation request to the customer who will approve or decline the cancellation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">339</context>
@@ -349,6 +384,7 @@
       </trans-unit>
       <trans-unit id="6595219065162868608" datatype="html">
         <source>Edit the notes for this supplier</source>
+        <target>Edit the notes for this supplier</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">340</context>
@@ -356,6 +392,7 @@
       </trans-unit>
       <trans-unit id="2095642285429022341" datatype="html">
         <source>Request delivery approval</source>
+        <target>Request delivery approval</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">341</context>
@@ -363,6 +400,7 @@
       </trans-unit>
       <trans-unit id="9049874465568630312" datatype="html">
         <source>Are you sure you want to request delivery approval?</source>
+        <target>Are you sure you want to request delivery approval?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">342</context>
@@ -370,6 +408,7 @@
       </trans-unit>
       <trans-unit id="5619361598520378792" datatype="html">
         <source>Delivery notes</source>
+        <target>Delivery notes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">343</context>
@@ -381,6 +420,7 @@
       </trans-unit>
       <trans-unit id="7372755454773589030" datatype="html">
         <source>Delivery</source>
+        <target>Delivery</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">344</context>
@@ -392,6 +432,7 @@
       </trans-unit>
       <trans-unit id="4070158818607957447" datatype="html">
         <source>Edit delivery data</source>
+        <target>Edit delivery data</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">345</context>
@@ -399,6 +440,7 @@
       </trans-unit>
       <trans-unit id="4733307402565258070" datatype="html">
         <source>Documents</source>
+        <target>Documents</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">346</context>
@@ -406,6 +448,7 @@
       </trans-unit>
       <trans-unit id="6162565529691760265" datatype="html">
         <source>Upload project documents</source>
+        <target>Upload project documents</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">347</context>
@@ -413,6 +456,7 @@
       </trans-unit>
       <trans-unit id="1070574421256058549" datatype="html">
         <source>Product details</source>
+        <target>Product details</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">348</context>
@@ -420,6 +464,7 @@
       </trans-unit>
       <trans-unit id="1372517898354216144" datatype="html">
         <source>Edit product details</source>
+        <target>Edit product details</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">349</context>
@@ -427,6 +472,7 @@
       </trans-unit>
       <trans-unit id="2704951218829839813" datatype="html">
         <source>Cancellation request sent successfully</source>
+        <target>Cancellation request sent successfully</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">389</context>
@@ -434,6 +480,7 @@
       </trans-unit>
       <trans-unit id="8521371853940049245" datatype="html">
         <source>Failed to send cancellation request</source>
+        <target>Failed to send cancellation request</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">396</context>
@@ -441,6 +488,7 @@
       </trans-unit>
       <trans-unit id="6491676481993785759" datatype="html">
         <source>Approval request sent successfully</source>
+        <target>Approval request sent successfully</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">407</context>
@@ -448,6 +496,7 @@
       </trans-unit>
       <trans-unit id="8655213709261139219" datatype="html">
         <source>Failed to send approval request</source>
+        <target>Failed to send approval request</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/deal-details-feature.component.ts</context>
           <context context-type="linenumber">414</context>
@@ -455,6 +504,7 @@
       </trans-unit>
       <trans-unit id="8751522898833621963" datatype="html">
         <source>Installation date</source>
+        <target>Installation date</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/delivery-card/delivery-card.component.ts</context>
           <context context-type="linenumber">32,33</context>
@@ -466,6 +516,7 @@
       </trans-unit>
       <trans-unit id="8165398120893314958" datatype="html">
         <source>Delivery approved</source>
+        <target>Delivery approved</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/delivery-card/delivery-card.component.ts</context>
           <context context-type="linenumber">38,39</context>
@@ -481,6 +532,7 @@
       </trans-unit>
       <trans-unit id="9221758270661748387" datatype="html">
         <source>Delivery report</source>
+        <target>Delivery report</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/delivery-card/delivery-card.component.ts</context>
           <context context-type="linenumber">44,45</context>
@@ -492,6 +544,7 @@
       </trans-unit>
       <trans-unit id="906157199299947612" datatype="html">
         <source>Total invoice amount</source>
+        <target>Total invoice amount</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/delivery-card/delivery-card.component.ts</context>
           <context context-type="linenumber">57,58</context>
@@ -503,6 +556,7 @@
       </trans-unit>
       <trans-unit id="5731972491580424912" datatype="html">
         <source>Invoice</source>
+        <target>Invoice</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/delivery-card/delivery-card.component.ts</context>
           <context context-type="linenumber">67,68</context>
@@ -510,6 +564,7 @@
       </trans-unit>
       <trans-unit id="6071279288523030204" datatype="html">
         <source>Delivery invoice</source>
+        <target>Delivery invoice</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/delivery-form/delivery-form.component.ts</context>
           <context context-type="linenumber">116</context>
@@ -517,13 +572,15 @@
       </trans-unit>
       <trans-unit id="8635455518634942544" datatype="html">
         <source> No additional documents available </source>
+        <target> No additional documents available </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/documents-card/documents-card.component.ts</context>
           <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8487069194290505343" datatype="html">
-        <source><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;[&apos;fak&apos;, &apos;plus&apos;]&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/> Add </source>
+        <source><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;['fak', 'plus']&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/> Add </source>
+        <target><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;['fak', 'plus']&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/> Add </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/documents-card/documents-card.component.ts</context>
           <context context-type="linenumber">73,75</context>
@@ -535,6 +592,7 @@
       </trans-unit>
       <trans-unit id="1316240898849015255" datatype="html">
         <source>Additional documents</source>
+        <target>Additional documents</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/documents-card/documents-card.component.ts</context>
           <context context-type="linenumber">90</context>
@@ -542,6 +600,7 @@
       </trans-unit>
       <trans-unit id="6167919853391405248" datatype="html">
         <source>Connection failed!</source>
+        <target>Connection failed!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/error-message-section/error-message-section.component.ts</context>
           <context context-type="linenumber">34</context>
@@ -549,6 +608,7 @@
       </trans-unit>
       <trans-unit id="6168740253036093111" datatype="html">
         <source>Something went wrong!</source>
+        <target>Something went wrong!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/error-message-section/error-message-section.component.ts</context>
           <context context-type="linenumber">35</context>
@@ -556,6 +616,7 @@
       </trans-unit>
       <trans-unit id="3990893640692051424" datatype="html">
         <source>We couldn&apos;t save your changes due to a connectivity issue. This might be related to your internet connection or a temporary service interruption. Please try again shortly. If the issue persists, contact your system administrator</source>
+        <target>We couldn&apos;t save your changes due to a connectivity issue. This might be related to your internet connection or a temporary service interruption. Please try again shortly. If the issue persists, contact your system administrator</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/error-message-section/error-message-section.component.ts</context>
           <context context-type="linenumber">36</context>
@@ -563,6 +624,7 @@
       </trans-unit>
       <trans-unit id="7937876589554949780" datatype="html">
         <source>We couldn&apos;t save the changes due to a system issue. Please try again. If the problem persists, contact your installer manager.</source>
+        <target>We couldn&apos;t save the changes due to a system issue. Please try again. If the problem persists, contact your installer manager.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/error-message-section/error-message-section.component.ts</context>
           <context context-type="linenumber">37</context>
@@ -570,6 +632,7 @@
       </trans-unit>
       <trans-unit id="2527818959969975588" datatype="html">
         <source>Product Type</source>
+        <target>Product Type</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">145</context>
@@ -577,6 +640,7 @@
       </trans-unit>
       <trans-unit id="2860023598144831003" datatype="html">
         <source>Model name</source>
+        <target>Model name</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">146</context>
@@ -588,6 +652,7 @@
       </trans-unit>
       <trans-unit id="7825570888384392250" datatype="html">
         <source>Capacity</source>
+        <target>Capacity</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">148</context>
@@ -595,6 +660,7 @@
       </trans-unit>
       <trans-unit id="1366633108555851216" datatype="html">
         <source>Enter capacity</source>
+        <target>Enter capacity</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">149</context>
@@ -602,6 +668,7 @@
       </trans-unit>
       <trans-unit id="6533918067030990396" datatype="html">
         <source>Amount</source>
+        <target>Amount</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">150</context>
@@ -609,6 +676,7 @@
       </trans-unit>
       <trans-unit id="7460549118602678117" datatype="html">
         <source>Enter amount</source>
+        <target>Enter amount</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">151</context>
@@ -616,6 +684,7 @@
       </trans-unit>
       <trans-unit id="1672892729832959432" datatype="html">
         <source>Total cost</source>
+        <target>Total cost</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">152</context>
@@ -623,6 +692,7 @@
       </trans-unit>
       <trans-unit id="6219168987713465172" datatype="html">
         <source>Enter cost</source>
+        <target>Enter cost</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/product-form/product-form.component.ts</context>
           <context context-type="linenumber">153</context>
@@ -630,6 +700,7 @@
       </trans-unit>
       <trans-unit id="4749295647449765550" datatype="html">
         <source>Processed</source>
+        <target>Processed</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/products-card/product-details/product-details.component.ts</context>
           <context context-type="linenumber">93</context>
@@ -637,6 +708,7 @@
       </trans-unit>
       <trans-unit id="6920175732213991433" datatype="html">
         <source>No products to display</source>
+        <target>No products to display</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/products-card/products-card.component.ts</context>
           <context context-type="linenumber">33,34</context>
@@ -644,6 +716,7 @@
       </trans-unit>
       <trans-unit id="6707361102856436710" datatype="html">
         <source>Products</source>
+        <target>Products</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/products-card/products-card.component.ts</context>
           <context context-type="linenumber">66</context>
@@ -651,6 +724,7 @@
       </trans-unit>
       <trans-unit id="8095766416409866606" datatype="html">
         <source>This deal is completed. You cannot make any changes.</source>
+        <target>This deal is completed. You cannot make any changes.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/read-only-notification/read-only-notification.component.ts</context>
           <context context-type="linenumber">19,20</context>
@@ -658,6 +732,7 @@
       </trans-unit>
       <trans-unit id="2053982574670858136" datatype="html">
         <source>Approved on</source>
+        <target>Approved on</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/read-only-notification/read-only-notification.component.ts</context>
           <context context-type="linenumber">22,23</context>
@@ -665,6 +740,7 @@
       </trans-unit>
       <trans-unit id="2539191919061544581" datatype="html">
         <source>Reason: </source>
+        <target>Reason: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/read-only-notification/read-only-notification.component.ts</context>
           <context context-type="linenumber">31,32</context>
@@ -672,6 +748,7 @@
       </trans-unit>
       <trans-unit id="5906272961955453157" datatype="html">
         <source>Approved</source>
+        <target>Approved</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/read-only-notification/read-only-notification.component.ts</context>
           <context context-type="linenumber">46,47</context>
@@ -679,6 +756,7 @@
       </trans-unit>
       <trans-unit id="4189964727745243661" datatype="html">
         <source>Deposit approved</source>
+        <target>Deposit approved</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/read-only-notification/read-only-notification.component.ts</context>
           <context context-type="linenumber">72</context>
@@ -686,6 +764,7 @@
       </trans-unit>
       <trans-unit id="8930164282918573225" datatype="html">
         <source>Delivery notes (Optional)</source>
+        <target>Delivery notes (Optional)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-approval-form/request-approval-form.component.ts</context>
           <context context-type="linenumber">50</context>
@@ -693,6 +772,7 @@
       </trans-unit>
       <trans-unit id="6070877521710677449" datatype="html">
         <source>The reason for cancellation must be at least <x id="PH" equiv-text="SUPPLIER_EXPLANATION_MIN_LENGTH"/> characters long.</source>
+        <target>The reason for cancellation must be at least <x id="PH" equiv-text="SUPPLIER_EXPLANATION_MIN_LENGTH"/> characters long.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">104</context>
@@ -700,6 +780,7 @@
       </trans-unit>
       <trans-unit id="6611269375510524730" datatype="html">
         <source>The reason for cancellation is required.</source>
+        <target>The reason for cancellation is required.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">108</context>
@@ -707,6 +788,7 @@
       </trans-unit>
       <trans-unit id="1131476989027904626" datatype="html">
         <source>Yes, cancel the order</source>
+        <target>Yes, cancel the order</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">119</context>
@@ -714,6 +796,7 @@
       </trans-unit>
       <trans-unit id="7028040339203114590" datatype="html">
         <source>Reason for cancellation</source>
+        <target>Reason for cancellation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">121</context>
@@ -721,6 +804,7 @@
       </trans-unit>
       <trans-unit id="4859229141508813378" datatype="html">
         <source>Enter a reason...</source>
+        <target>Enter a reason...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">122</context>
@@ -728,6 +812,7 @@
       </trans-unit>
       <trans-unit id="1144268275926222376" datatype="html">
         <source>Customer withdrew from the order without a valid cause. I would like to claim the deposit.</source>
+        <target>Customer withdrew from the order without a valid cause. I would like to claim the deposit.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">123</context>
@@ -735,6 +820,7 @@
       </trans-unit>
       <trans-unit id="4541153272044954895" datatype="html">
         <source>Final offer report is missing</source>
+        <target>Final offer report is missing</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">124</context>
@@ -742,6 +828,7 @@
       </trans-unit>
       <trans-unit id="5758026465315171241" datatype="html">
         <source>You must upload final offer report before claiming deposit.</source>
+        <target>You must upload final offer report before claiming deposit.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/request-cancellation-form/request-cancellation-form.component.ts</context>
           <context context-type="linenumber">125</context>
@@ -749,6 +836,7 @@
       </trans-unit>
       <trans-unit id="689065608842206594" datatype="html">
         <source>Delivery cancelled</source>
+        <target>Delivery cancelled</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/supplier-actions/supplier-actions.component.ts</context>
           <context context-type="linenumber">33,34</context>
@@ -756,6 +844,7 @@
       </trans-unit>
       <trans-unit id="4244049493827066346" datatype="html">
         <source>Approval pending</source>
+        <target>Approval pending</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/supplier-actions/supplier-actions.component.ts</context>
           <context context-type="linenumber">36,37</context>
@@ -763,6 +852,7 @@
       </trans-unit>
       <trans-unit id="4515793161747350619" datatype="html">
         <source>Request approval</source>
+        <target>Request approval</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/supplier-actions/supplier-actions.component.ts</context>
           <context context-type="linenumber">39,40</context>
@@ -770,6 +860,7 @@
       </trans-unit>
       <trans-unit id="8104421162933956065" datatype="html">
         <source>Notes</source>
+        <target>Notes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/supplier-notes-card/supplier-notes-card.component.ts</context>
           <context context-type="linenumber">49</context>
@@ -777,6 +868,7 @@
       </trans-unit>
       <trans-unit id="5604675794399077816" datatype="html">
         <source>Delivery notes...</source>
+        <target>Delivery notes...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-details-feature/src/lib/deal-details-feature/supplier-notes-card/supplier-notes-card.component.ts</context>
           <context context-type="linenumber">50</context>
@@ -784,6 +876,7 @@
       </trans-unit>
       <trans-unit id="2330577642930707695" datatype="html">
         <source> Cancel </source>
+        <target> Cancel </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-filter/deal-filter.component.ts</context>
           <context context-type="linenumber">40,41</context>
@@ -791,6 +884,7 @@
       </trans-unit>
       <trans-unit id="4517691647545108767" datatype="html">
         <source> Apply </source>
+        <target> Apply </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-filter/deal-filter.component.ts</context>
           <context context-type="linenumber">43,44</context>
@@ -798,6 +892,7 @@
       </trans-unit>
       <trans-unit id="5611592591303869712" datatype="html">
         <source>Status</source>
+        <target>Status</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-filter/deal-filter.component.ts</context>
           <context context-type="linenumber">87</context>
@@ -809,6 +904,7 @@
       </trans-unit>
       <trans-unit id="1891095504016485210" datatype="html">
         <source>Campaign</source>
+        <target>Campaign</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-filter/deal-filter.component.ts</context>
           <context context-type="linenumber">88</context>
@@ -820,6 +916,7 @@
       </trans-unit>
       <trans-unit id="3750986039131034419" datatype="html">
         <source>Exported</source>
+        <target>Exported</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-filter/deal-filter.component.ts</context>
           <context context-type="linenumber">89</context>
@@ -827,13 +924,15 @@
       </trans-unit>
       <trans-unit id="3894950702316166331" datatype="html">
         <source>Loading...</source>
+        <target>Loading...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">83,84</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4937180807038588053" datatype="html">
-        <source>Filters<x id="PH" equiv-text="filterCount &gt; 0 ? ` (${filterCount})` : &apos;&apos;"/></source>
+        <source>Filters<x id="PH" equiv-text="filterCount &gt; 0 ? ` (${filterCount})` : ''"/></source>
+        <target>Filters<x id="PH" equiv-text="filterCount &gt; 0 ? ` (${filterCount})` : ''"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">150</context>
@@ -841,6 +940,7 @@
       </trans-unit>
       <trans-unit id="4580988005648117665" datatype="html">
         <source>Search</source>
+        <target>Search</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">213</context>
@@ -848,6 +948,7 @@
       </trans-unit>
       <trans-unit id="4163272119298020373" datatype="html">
         <source>Filters</source>
+        <target>Filters</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">214</context>
@@ -855,6 +956,7 @@
       </trans-unit>
       <trans-unit id="2175040796682437466" datatype="html">
         <source>Apply filters to customer list</source>
+        <target>Apply filters to customer list</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">215</context>
@@ -862,6 +964,7 @@
       </trans-unit>
       <trans-unit id="2807800733729323332" datatype="html">
         <source>Yes</source>
+        <target>Yes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">216</context>
@@ -869,6 +972,7 @@
       </trans-unit>
       <trans-unit id="3542042671420335679" datatype="html">
         <source>No</source>
+        <target>No</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">217</context>
@@ -876,6 +980,7 @@
       </trans-unit>
       <trans-unit id="1826316885576867147" datatype="html">
         <source>Overview of your customers</source>
+        <target>Overview of your customers</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">220</context>
@@ -883,6 +988,7 @@
       </trans-unit>
       <trans-unit id="6954066336854891231" datatype="html">
         <source>Exported customers successfully</source>
+        <target>Exported customers successfully</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">256</context>
@@ -890,6 +996,7 @@
       </trans-unit>
       <trans-unit id="8519231841885746576" datatype="html">
         <source>No deals found to export</source>
+        <target>No deals found to export</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-overview-feature.component.ts</context>
           <context context-type="linenumber">265</context>
@@ -897,6 +1004,7 @@
       </trans-unit>
       <trans-unit id="1642972066115158058" datatype="html">
         <source>Customer</source>
+        <target>Customer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/deal-table/deal-table.component.html</context>
           <context context-type="linenumber">8,9</context>
@@ -904,6 +1012,7 @@
       </trans-unit>
       <trans-unit id="8376637077727802152" datatype="html">
         <source>Export new customers</source>
+        <target>Export new customers</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/export-button/export-button.component.ts</context>
           <context context-type="linenumber">35,37</context>
@@ -911,6 +1020,7 @@
       </trans-unit>
       <trans-unit id="6415430164294859089" datatype="html">
         <source>Export new customers (<x id="INTERPOLATION" equiv-text="{{ firstProductLineExportAmount() }}"/>)</source>
+        <target>Export new customers (<x id="INTERPOLATION" equiv-text="{{ firstProductLineExportAmount() }}"/>)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/export-button/export-button.component.ts</context>
           <context context-type="linenumber">39,40</context>
@@ -918,13 +1028,15 @@
       </trans-unit>
       <trans-unit id="3113006922712725306" datatype="html">
         <source> Export new <x id="INTERPOLATION" equiv-text="{{ item.productLine.toLowerCase() }}"/> customers </source>
+        <target> Export new <x id="INTERPOLATION" equiv-text="{{ item.productLine.toLowerCase() }}"/> customers </target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/export-button/export-button.component.ts</context>
           <context context-type="linenumber">63,64</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4825630206666376050" datatype="html">
-        <source><x id="START_BLOCK_IF" equiv-text="@if (lastExportDate()) {"/> Last exported on <x id="INTERPOLATION" equiv-text="{{ lastExportDate() | countryDate: &apos;short&apos; }}"/> <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (!isLoading()) {"/> You have not yet exported any deals. <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>
+        <source><x id="START_BLOCK_IF" equiv-text="@if (lastExportDate()) {"/> Last exported on <x id="INTERPOLATION" equiv-text="{{ lastExportDate() | countryDate: 'short' }}"/> <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (!isLoading()) {"/> You have not yet exported any deals. <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></source>
+        <target><x id="START_BLOCK_IF" equiv-text="@if (lastExportDate()) {"/> Last exported on <x id="INTERPOLATION" equiv-text="{{ lastExportDate() | countryDate: 'short' }}"/> <x id="CLOSE_BLOCK_IF" equiv-text="}"/><x id="START_BLOCK_ELSE_IF" equiv-text="@else if (!isLoading()) {"/> You have not yet exported any deals. <x id="CLOSE_BLOCK_ELSE_IF" equiv-text="}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/deal-overview-feature/src/lib/deal-overview-feature/export-button/export-button.component.ts</context>
           <context context-type="linenumber">73,80</context>
@@ -932,6 +1044,7 @@
       </trans-unit>
       <trans-unit id="dealStage.unknown" datatype="html">
         <source>Unknown</source>
+        <target>Unknown</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">19</context>
@@ -939,6 +1052,7 @@
       </trans-unit>
       <trans-unit id="dealStage.assessmentPending" datatype="html">
         <source>Assessment Pending</source>
+        <target>Assessment Pending</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">20</context>
@@ -946,6 +1060,7 @@
       </trans-unit>
       <trans-unit id="dealStage.finalOfferSent" datatype="html">
         <source>Final Offer Sent</source>
+        <target>Final Offer Sent</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">21</context>
@@ -953,6 +1068,7 @@
       </trans-unit>
       <trans-unit id="dealStage.finalOfferApproved" datatype="html">
         <source>Final Offer Approved</source>
+        <target>Final Offer Approved</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">22</context>
@@ -960,6 +1076,7 @@
       </trans-unit>
       <trans-unit id="dealStage.installationDateScheduled" datatype="html">
         <source>Installation Date Scheduled</source>
+        <target>Installation Date Scheduled</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">23</context>
@@ -967,6 +1084,7 @@
       </trans-unit>
       <trans-unit id="dealStage.installationPerformed" datatype="html">
         <source>Installation Performed</source>
+        <target>Installation Performed</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">24</context>
@@ -974,6 +1092,7 @@
       </trans-unit>
       <trans-unit id="dealStage.deliveryApprovalRequested" datatype="html">
         <source>Delivery Approval Requested</source>
+        <target>Delivery Approval Requested</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">25</context>
@@ -981,6 +1100,7 @@
       </trans-unit>
       <trans-unit id="dealStage.deliveryApprovalRequestDeclined" datatype="html">
         <source>Delivery Declined</source>
+        <target>Delivery Declined</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">26</context>
@@ -988,6 +1108,7 @@
       </trans-unit>
       <trans-unit id="dealStage.deliveryApproved" datatype="html">
         <source>Delivery Approved</source>
+        <target>Delivery Approved</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">27</context>
@@ -995,6 +1116,7 @@
       </trans-unit>
       <trans-unit id="dealStage.deliveryCancellationRequested" datatype="html">
         <source>Delivery Cancellation Requested</source>
+        <target>Delivery Cancellation Requested</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">28</context>
@@ -1002,6 +1124,7 @@
       </trans-unit>
       <trans-unit id="dealStage.deliveryCancelled" datatype="html">
         <source>Delivery Cancelled</source>
+        <target>Delivery Cancelled</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/domain/src/lib/models/deal-stage.enum.ts</context>
           <context context-type="linenumber">29</context>
@@ -1009,6 +1132,7 @@
       </trans-unit>
       <trans-unit id="7507948636555938109" datatype="html">
         <source>Log out</source>
+        <target>Log out</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/authentication-error/authentication-error.component.ts</context>
           <context context-type="linenumber">16,17</context>
@@ -1020,6 +1144,7 @@
       </trans-unit>
       <trans-unit id="8201711362699947552" datatype="html">
         <source>Unable to find that page</source>
+        <target>Unable to find that page</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">34</context>
@@ -1027,6 +1152,7 @@
       </trans-unit>
       <trans-unit id="8053477814844632887" datatype="html">
         <source>Login failed</source>
+        <target>Login failed</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">36</context>
@@ -1034,6 +1160,7 @@
       </trans-unit>
       <trans-unit id="300730866693201208" datatype="html">
         <source>No access to this page</source>
+        <target>No access to this page</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">38</context>
@@ -1041,6 +1168,7 @@
       </trans-unit>
       <trans-unit id="7116682672711162998" datatype="html">
         <source>Unable to load the page</source>
+        <target>Unable to load the page</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">40</context>
@@ -1048,6 +1176,7 @@
       </trans-unit>
       <trans-unit id="7065464372847182937" datatype="html">
         <source>An error occurred</source>
+        <target>An error occurred</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">42</context>
@@ -1055,6 +1184,7 @@
       </trans-unit>
       <trans-unit id="5730198930682450722" datatype="html">
         <source>Sorry, the page you requested could not be found.</source>
+        <target>Sorry, the page you requested could not be found.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">49</context>
@@ -1062,6 +1192,7 @@
       </trans-unit>
       <trans-unit id="7660764930830096622" datatype="html">
         <source>We could not log you in due to a problem with your supplier account. If the problem persists, please contact your installer manager.</source>
+        <target>We could not log you in due to a problem with your supplier account. If the problem persists, please contact your installer manager.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">51</context>
@@ -1069,6 +1200,7 @@
       </trans-unit>
       <trans-unit id="9009745899500989448" datatype="html">
         <source>You do not have the permission to access this page</source>
+        <target>You do not have the permission to access this page</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">53</context>
@@ -1076,6 +1208,7 @@
       </trans-unit>
       <trans-unit id="7682947860479445629" datatype="html">
         <source>Sorry, we couldn’t load this page. Please try again or get in touch with our team for help.</source>
+        <target>Sorry, we couldn’t load this page. Please try again or get in touch with our team for help.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">55</context>
@@ -1083,6 +1216,7 @@
       </trans-unit>
       <trans-unit id="7696408227919576948" datatype="html">
         <source>An unexpected error has occurred. Please try again later or contact support if the issue continues.</source>
+        <target>An unexpected error has occurred. Please try again later or contact support if the issue continues.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/error-page/error-page.component.ts</context>
           <context context-type="linenumber">57</context>
@@ -1090,6 +1224,7 @@
       </trans-unit>
       <trans-unit id="6801535761978393212" datatype="html">
         <source>Back to home</source>
+        <target>Back to home</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/forbidden-page/forbidden-page.component.ts</context>
           <context context-type="linenumber">17,18</context>
@@ -1101,6 +1236,7 @@
       </trans-unit>
       <trans-unit id="6650633628037596693" datatype="html">
         <source>Try again</source>
+        <target>Try again</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-error-ui/src/lib/page-load-error-page/page-load-error-page.component.ts</context>
           <context context-type="linenumber">17,18</context>
@@ -1108,6 +1244,7 @@
       </trans-unit>
       <trans-unit id="626781142089573549" datatype="html">
         <source>Click to upload</source>
+        <target>Click to upload</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-ui/src/lib/components/file-input/file-input.component.ts</context>
           <context context-type="linenumber">88</context>
@@ -1115,6 +1252,7 @@
       </trans-unit>
       <trans-unit id="1298097448186364698" datatype="html">
         <source> or drag and drop</source>
+        <target> or drag and drop</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-ui/src/lib/components/file-input/file-input.component.ts</context>
           <context context-type="linenumber">89</context>
@@ -1122,6 +1260,7 @@
       </trans-unit>
       <trans-unit id="4452427314943113135" datatype="html">
         <source>Previous</source>
+        <target>Previous</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-ui/src/lib/components/pagination/pagination.component.ts</context>
           <context context-type="linenumber">17,18</context>
@@ -1129,6 +1268,7 @@
       </trans-unit>
       <trans-unit id="3885497195825665706" datatype="html">
         <source>Next</source>
+        <target>Next</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ng/partner/partner-ui/src/lib/components/pagination/pagination.component.ts</context>
           <context context-type="linenumber">35</context>
